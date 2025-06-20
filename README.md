@@ -35,7 +35,8 @@ Historical directories often feature:
 - Multi-column formats
 - Abbreviated street/occupational terms
 - Inconsistent layouts
-![Stitched Image with OCR Bounding Boxes]([images/data.png](https://github.com/1216-dev/Final_Task/blob/main/flow.png])
+![Flowchart](https://raw.githubusercontent.com/1216-dev/Final_Task/main/images/flow.png)
+
 
 Traditional OCR struggles with these, resulting in low fidelity. Gemini 1.5 Flash addresses this by:
 - Interpreting both text and visual image context
