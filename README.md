@@ -6,7 +6,7 @@ a comprehensive and scalable OCR-to-JSON pipeline using both traditional compute
 This repository contains a comprehensive pipeline for extracting structured information from historical scanned directories—focusing on the 1900 Minneapolis City Directory. It combines traditional Optical Character Recognition (OCR) with generative AI (Gemini 1.5 Flash) to produce high-quality, structured JSON outputs.
 
 📁 [Google Drive Outputs (JSON, Images, Text)](https://drive.google.com/drive/folders/1EIsuaC5VFYxf6CS_jv8SjPMP-YkGyLiJ?usp=sharing)  
-📄 [Download Final Report (PDF)]([report.pdf](https://github.com/1216-dev/Final_Task/blob/main/Devshree_Report_Final.pdf))
+📄 [Download Final Report (PDF)](https://drive.google.com/file/d/1syRhtK-iEsuU0KEx4HSyWgdh-kmppagw/view?usp=sharing)
 
 ---
 
